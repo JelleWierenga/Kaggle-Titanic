@@ -1,0 +1,8 @@
+- [ ] make boxplots for other number columns
+- [ ] make chapters
+  - [ ] Did Passenger Class Affect Survival Rates?
+  - [ ] What Role Did Gender Play in Survival?
+  - [ ] How Did Age Impact Survival on the Titanic?
+  - [ ] Did Family Size Influence Survival?
+  - [ ] Were There Geographic Differences in Survival Rates?
+  - [ ] What Insights Can We Gain from Cabin Location?
